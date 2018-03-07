@@ -16,3 +16,12 @@ read
 sqlldr userid= PRUEBA1/123 control=medicina.ctl
 read
 
+sqlldr userid= PRUEBA1/123 control=farmacia.ctl
+read
+
+
+sqlldr userid= PRUEBA1/123 control=lp.ctl
+read
+
+sqlldr userid= PRUEBA1/123 control=pre.ctl
+read

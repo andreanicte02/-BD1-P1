@@ -1,0 +1,7 @@
+ID         NOMBRE                DIRECCION                    TELEFONO
+---------- --------------------- ---------------------------- ---------
+00001      Mateo Flores          10 av zona 1                 12345678        
+00002      Calzada San Juan      4ta Calle zona 21            21234124        
+00003      Las Flores            5ta av zona 14               20314902
+00004      Periférico            9av zona 18                  41234124        
+00005      Aguilar Batres        5ta calle zona 9             55512332        
