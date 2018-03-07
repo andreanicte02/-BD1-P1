@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Wed Mar 7 01:21:35 2018
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   medicina.ctl
+Character Set WE8MSWIN1252 specified for all input.
+
+Data File:      archivos/MEDICINAS.txt
+  Bad File:     MEDICINAS.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 2
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MEDICINA, loaded from every logical record.
+Insert option in effect for this table: TRUNCATE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+MD_ID                                1:10    10           CHARACTER            
+    SQL string for column : "TRIM(:md_id)"
+MD_NOMBRE_COMERCIAL                 12:32    21           CHARACTER            
+    SQL string for column : "TRIM(:md_nombre_comercial)"
+MD_FORMULA                          34:61    28           CHARACTER            
+    SQL string for column : "TRIM(:md_formula)"
+LABORATORIO_LB_ID                   63:71     9           CHARACTER            
+    SQL string for column : "TRIM(:laboratorio_lb_id)"
+
+
+Table MEDICINA:
+  4 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                   4992 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          2
+Total logical records read:             4
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Mar 07 01:21:35 2018
+Run ended on Wed Mar 07 01:21:35 2018
+
+Elapsed time was:     00:00:00.09
+CPU time was:         00:00:00.02

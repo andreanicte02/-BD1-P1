@@ -1,0 +1,7 @@
+ID         NOMBRE                ESPECIA 	EXPER 	 SALARIO
+---------- --------------------- --------- --------- ----------
+00001      CHADWICK STOCKMAN     1         1         10000 
+00002      DECIMA NANCE          2         1         12000
+00003      DENYS POINDEXTER      3         4         15000
+00004      DOLLY EMBREY          4         1         9000
+00005      EMMANUEL RUDDER       5         6         7000

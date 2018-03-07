@@ -1,0 +1,7 @@
+ID         NOMBRE                TELEFONO
+---------- --------------------- ---------
+00001      Mateo Flores          12345678        
+00002      Calzada San Juan      21234124        
+00003      Las Flores            31234125 
+00004      Periférico            41234124        
+00005      Aguilar Batres        55512332        

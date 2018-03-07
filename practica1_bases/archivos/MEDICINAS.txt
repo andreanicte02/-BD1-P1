@@ -1,0 +1,6 @@
+ID         NOMBRECOMERCIAL       FORMULA                      LABORATORIO
+---------- --------------------- ---------------------------- ---------
+00001      AMOXICILINA           AMOX...                      1        
+00002      PENICILINA            PEN...                       2        
+00003      TABCIN                TAB...                       3
+00004      DICLOFENACO           DIC...                       1        

@@ -1,0 +1,7 @@
+ID         NOMBRE                FECHA_NAC TEEFONO 	 DIR_ACTUAL                      DOCTOR
+---------- --------------------- --------- --------- ------------------------------- ------------
+00001      ABIGAIL KESSEL        28-APR-76 12345670  ZONA 6, GUATEMALA CIUDAD        1       
+00002      ANNIE GILMOUR         22-FEB-79 12345671  ZONA 1, GUATEMALA CIUDAD        1            
+00003      AUBURN MALLONEY       03-JUL-78 12345672  ZONA 6, GUATEMALA CIUDAD        3       
+00004      BARLOW PETRELLA       07-NOV-82 12345673  ZONA 6, GUATEMALA CIUDAD        1       
+00005      BEE MAJORS            02-OCT-80 12345678  ZONA 21, GUATEMALA CIUDAD       2       
